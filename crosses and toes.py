@@ -1,3 +1,5 @@
+for random import random
+
 # кол-во клеток
 BOARD_SIZE = 3
 # Игровое поле
