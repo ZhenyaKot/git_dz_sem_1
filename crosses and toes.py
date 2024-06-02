@@ -6,6 +6,7 @@ BOARD_SIZE = 3
 BOARD = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 
+
 def draw_board():
     '''Выводим игровое поле '''
     print('_' * 4 * BOARD_SIZE)
